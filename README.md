@@ -1,7 +1,5 @@
-### Hi there 👋
+### Arnold Mwesigye
 
-### Hi there 👋, My name is Arnold.
-#### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator](https://img.freepik.com/premium-vector/modern-flat-design-isometric-landing-page-web-development_9209-1524.jpg)
 
 I'm Arnold from Uganda and I'm a software engineer. I really enjoy learning languages and frameworks like React and Node.js as well as work in Typescript. I enjoy coding in every sense of the word.
