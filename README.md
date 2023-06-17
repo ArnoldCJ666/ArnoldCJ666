@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**ArnoldCJ666/ArnoldCJ666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, My name is Arnold.
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://img.freepik.com/premium-vector/modern-flat-design-isometric-landing-page-web-development_9209-1524.jpg)
 
-Here are some ideas to get you started:
+I'm Arnold from Uganda and I'm a software engineer. I really enjoy learning languages and frameworks like React and Node.js as well as work in Typescript. I enjoy coding in every sense of the word.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: NODE JS / REACT / JS / HTML / CSS
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ArnoldCJ666)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/arnold-mwesigye/)  
+
+
+
+
+
