@@ -1,8 +1,14 @@
-<h1 align="center">Hi 👋, I'm Arnold Mwesiyge</h1>
-<h3 align="center">A passionate web developer from Uganda</h3>
-<img align="center" width="400" alt="programmer" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img width="400%" src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif">
 
-- 👨‍💻 All of my projects are available at [https://arnoldmwesigye.com](https://arnoldmwesigye.com)
+
+<h1 align="center">Hi 👋, I'm Arnold Mwesigye</h1>
+<h3 align="center">A passionate Web Developer from Kampala, Uganda</h3>
+<h4 align="center">I'm extremely passionate about building and developing websites for clients. Working and collaborating with fellow developers to build projects that are responsive and interactive. Feel free to reach out!</h4>
+
+
+- 🌱 I’m currently learning **react and node.js**
+
+- 👨‍💻 All of my projects are available at [https://github.com/ArnoldCJ666](https://github.com/ArnoldCJ666)
 
 - 📝 I regularly write articles on [medium/@arnoldcj75](medium/@arnoldcj75)
 
@@ -11,7 +17,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/arnold-mwesigye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnold-mwesigye" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/arnoldcj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="arnoldcj" height="30" width="40" /></a>
 <a href="https://kaggle.com/arnoldcj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arnoldcj" height="30" width="40" /></a>
+<a href="https://instagram.com/arnxldcj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="arnxldcj" height="30" width="40" /></a>
 <a href="https://medium.com/@arnoldcj75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@arnoldcj75" height="30" width="40" /></a>
 </p>
 
