@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arnold Mwesiyge</h1>
 <h3 align="center">A passionate web developer from Uganda</h3>
-<img align="center" width="400" alt="programmer" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
+<img align="center" width="400" alt="programmer" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 👨‍💻 All of my projects are available at [https://arnoldmwesigye.com](https://arnoldmwesigye.com)
 
